@@ -1,4 +1,4 @@
-<h1>Lingo is a language learning platform built With Nextjs, React, Drizzle, Stripe</h1>
+<h1>Lingo is a language learning platform built with Nextjs, React, and Drizzle</h1>
 
 Key Features:<br>
 - 🌐 Next.js 14 & server actions<br>
